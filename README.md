@@ -22,7 +22,5 @@
 <div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  ![feynman](https://user-images.githubusercontent.com/81788112/135108593-0470ae69-0946-4482-a638-c7924245e727.png)
  
 </div>
